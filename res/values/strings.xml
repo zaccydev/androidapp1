@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="app_name">AndroidAppTest</string>
+    <string name="action_search">Rechercher</string>
+    <string name="edit_lname">Entrez votre nom</string>
+    <string name="edit_fname">Entrez votre prénom</string>
+    <string name="edit_age">Entrez votre age</string>
+    <string name="button_send">Valider</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="title_activity_main">Bienvenue</string>
+    <string name="title_activity_display_message">Enquête E-Lab</string>
+    <string name="title_activity_search_users">Recherche utilisateur</string>
+    <string name="title_activity_search_request">Paramètres recherche</string>      
+    <string name="title_activity_survey2">Formulaire d\'enquête</string>    
+    <string name="eyes_color">Couleur des yeux</string>    
+    <string name="eurolabcustomer">Client EuroLab</string>
+    <string name="surveyformlabel"></string>
+    <string name="searchrequestformlabel">Critères de recherche</string>    
+    <string name="thanks">Merci de votre participation.</string>
+    <string name="eyescolor">Couleur des yeux</string>
+    <string name="eyescolorblue">Bleu</string>
+	<string name="eyescolorbrown">Marron</string>
+	<string name="eyescolorgreen">Vert</string>
+	<string name="eyescolorgrey">Gris</string>	
+	<string name="skintype">Type de peau</string>
+    <string name="skintypenormal">Normal</string>
+	<string name="skintypefleshy">Grasse</string>
+	<string name="skintypedry">Sèche</string>	
+	<string name="errorform">Le formulaire contient des erreurs.</string>
+	<string name="sendform">Envoi du formulaire</string>
+	<string name="askuser">, merci de participer à notre enquête en complétant ce formulaire.</string>
+	<string name="hello">Bonjour</string>
+</resources>

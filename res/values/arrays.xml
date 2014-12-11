@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="eyescolorlist">
+		<item>@string/eyescolorblue</item>
+		<item>@string/eyescolorbrown</item>
+		<item>@string/eyescolorgreen</item>
+		<item>@string/eyescolorgrey</item>
+	</string-array>
+	<string-array name="skintypelist">
+		<item>@string/skintypenormal</item>
+		<item>@string/skintypefleshy</item>
+		<item>@string/skintypedry</item>		
+	</string-array>	
+</resources>

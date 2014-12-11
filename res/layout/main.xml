@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollViewMain" 
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:scrollbars="vertical">    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:orientation="vertical" 
+        android:layout_height="wrap_content">
+
+<EditText android:id="@+id/edit_fname"
+    	android:layout_gravity="left|top"   
+    	android:layout_width="wrap_content"       
+    	android:layout_height="40dip"	
+    	android:layout_marginTop="20dp"
+        android:hint="@string/edit_fname" />
+
+<EditText android:id="@+id/edit_lname"
+    android:layout_gravity="left|top"  
+       	android:layout_width="wrap_content"       
+    	android:layout_height="40dip"	
+    	android:layout_marginTop="10dp"
+        android:hint="@string/edit_lname" />
+
+<EditText android:id="@+id/edit_age" 
+       	android:layout_gravity="left|top"  
+       	android:layout_width="wrap_content"       
+    	android:layout_height="40dip"	
+    	android:layout_marginTop="10dp"
+        android:hint="@string/edit_age" />
+
+<Button android:id="@+id/button_send" 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="@string/button_send"        
+        />
+<!-- <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_search_users" 
+        android:onClick="searchUsers"
+        />   -->
+
+</LinearLayout>
+</ScrollView>
+
